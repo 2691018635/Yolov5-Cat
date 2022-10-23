@@ -1,0 +1,5 @@
+names:
+- Target
+nc: 1
+train: NBQS-1/train/images
+val: NBQS-1/valid/images
